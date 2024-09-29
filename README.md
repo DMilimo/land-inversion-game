@@ -49,8 +49,18 @@ To be able to run Land Invasion, you need to have Pygame installed on your compu
 
 <b>NOTE:</b> Messing with directories may cause some unforeseen consequences...
 
-1. Install all necessary libraries:
+Install all necessary libraries:
 
     ```sh
     pip install pygame
     ```
+#Contributors 
+
+- Shaun Thomas Tidswell 
+- Email: shaun.tidswell@students.cdu.edu.au
+- Gurinderpal Singh
+- Email: gurinderpalsingh@students.cdu.edu.au
+- Ahilan Anandasivam
+- Email: ahilan.anandasivam@students.cdu.edu.au
+- Dan Simiyu Milimo
+- Email: dan.milimo@students.cdu.edu.au 
